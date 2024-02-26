@@ -1,0 +1,30 @@
+.shell{
+    height: 400px;
+    width: 500px;
+    background-color: brown;
+    margin: 60px;
+    border-radius: 50px;
+    padding-top: 50px;
+    
+}
+button{
+    
+    height: 60px;
+    width: 60px;
+}
+
+.display{
+    background-color: antiquewhite;
+    height: 120px;
+    width: 300px;
+    margin-left: 100px;
+    display: flex;
+    
+}
+
+
+.button_container{
+    padding-left: 100px;
+    padding-top: 20px;
+    width: 360px;
+}
